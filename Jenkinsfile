@@ -5,7 +5,7 @@ import org.eclipse.jgit.lib.StoredConfig;
 
 node
 {
- git "git@github.com:landaisgu/jenkins-pipeline-scripts.git"
+ git "https://github.com/landaisgu/jenkins-pipeline-scripts"
 }
 
 def upstreamRepoUrl = "https://github.com/landaisgu/jenkins-pipeline-scripts"
